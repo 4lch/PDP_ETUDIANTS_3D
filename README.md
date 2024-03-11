@@ -156,6 +156,7 @@ Après ce rappel sur la DFM, on peut à présent attaquer le design de notre bo�
 - <ins>**Features et contraintes obligatoires** :</ins>
   - Utiliser les paramètres de DFM ci-dessus.
   - [ ] Deux pièces en 3D (boite et couvercle)
+  - [ ] Aucun support nécessaire
   - [ ] Numéro du TD et du groupe embossés quelque part sur le modèle (**hauteur minimum du texte 8mm**)
   - [ ] Un trou en face de la LED pour la voir
   - [ ] Un trou pour le port USB (prévoyez large)
