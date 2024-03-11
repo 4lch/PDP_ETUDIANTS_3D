@@ -1,4 +1,4 @@
-# INTERNNEEEEET
+# Life in plastic, it's fantastic !
 
 ## <ins>Prérequis</ins>
 - Avoir un groupe
@@ -124,16 +124,22 @@ Téléchargez et importez le [modèle Fusion du PCB](https://drive.google.com/fi
 ## Règles de conception
 Après ce rappel sur la DFM, on peut à présent attaquer le design de notre boîte ! **Prenez le temps de lire les contraintes et utilisez les paramètres ci-dessus pour réfléchir**. Je vous invite très fortement à utiliser le tableau ou **une feuille de papier pour poser vos idées, écrire les dimensions que vous connaissez et en déduire celles qui vous manquent**.
 
+**Les lignes qui commencent par "📏" contiennent des dimensions connues** que vous devez utiliser pour trouver celles qui vous manquent. Faites des schémas de profil et de haut de la boite et remplissez avec ce que vous savez !
+
+**Les lignes qui commencent par 🔲 sont des critères à vérifier !**
+
 - Dimensions extérieures **maximum** de la boîte, **couvercle inclus** :
   - 📏 Largeur : 44mm
   - 📏 Profondeur : 79mm
   - 📏 Hauteur : 35mm
+
 - Dimensions du PCB :
   - 📏 Empreinte de 40x75mm
   - 📏 Hauteur totale de ~19mm (PCB compris)
   - 📏 Le PCB a une épaisseur de 1.6mm
   - 📏 Trous de montage de 3.2mm, à 3mm des bords
   - [ ] 📏 <ins>**Laisser 2mm d'air sous le PCB sauf autour des trous de montage pour laisser la place aux points de soudure**</ins>
+
 - Composants d'assemblage :
   - [ ] 📏 <ins>**Deux vis à tête ronde M3x12mm**</ins> (les insérer depuis Mc MasterCarr dans votre assemblage)
 
