@@ -119,7 +119,7 @@ On vient de le voir, il y a plusieurs règles à respecter pour obtenir de bonne
 ## Mise en place
 Créez un dossier dans Fusion pour votre projet. Dans ce dossier, **créez un modèle pour la boîte, un autre pour le couvercle et enfin un dernier pour l'assemblage des deux.**
 
-Téléchargez et importez le [modèle Fusion du PCB](https://drive.google.com/file/d/1Rqq1AttxM8qUIJOBX5kQ8Ay4OQxnz_pK/view?usp=sharing)
+Téléchargez et importez le [modèle Fusion du PCB](https://drive.google.com/file/d/1_lE5b1FNhuSJ-RdCzu54t0wZZByJfLKD/view?usp=drive_link)
 
 ## Règles de conception
 Après ce rappel sur la DFM, on peut à présent attaquer le design de notre boîte ! **Prenez le temps de lire les contraintes et utilisez les paramètres ci-dessus pour réfléchir**. Je vous invite très fortement à utiliser le tableau ou **une feuille de papier pour poser vos idées, écrire les dimensions que vous connaissez et en déduire celles qui vous manquent**.
