@@ -164,6 +164,6 @@ Après ce rappel sur la DFM, on peut à présent attaquer le design de notre bo�
 
 ## Rendre votre travail
 
-Exportez votre modèle d'assemblage en .f3d, déposez le dans votre dossier Git, ajoutez le et commitez pour le livrer.
+Exportez votre modèle d'assemblage, déposez le dans votre dossier Git, ajoutez le et commitez pour le livrer. Si vous avez bien travaillé dans des fichiers différents pour chaquepièce et que vous livrer un assemblage, le format sera F3z (archive qui inclut les fichiers sources pour les composants) sinon f3d si vous avez tout fait dans le même fichier.
 
 ---
